@@ -9,7 +9,7 @@ Before your first day at Alchemy, you will need to set up your computer. This me
 
 ### Setup
 
-##### 1. Ensure that your laptop:
+##### Ensure that your laptop:
 
   - Is virus and malware free
   - Uses the most up-to-date, stable version of its operating system
@@ -17,11 +17,7 @@ Before your first day at Alchemy, you will need to set up your computer. This me
   - Has plenty of free hard drive space and memory
   - Can reliably connect to wireless networks
 
-##### 2. Sign up for a GitHub account
-
-Head on over to https://github.com/ and sign up. (It's free: there is no cost for a developer account.)
-
-##### 3. Complete the setup guide for your computer's operating system
+##### Complete the setup guide for your computer's operating system
 
 Based on your type of computer, follow the following instructions:
 
@@ -32,6 +28,5 @@ Based on your type of computer, follow the following instructions:
 ### Checklist
 
 Following completion of this setup work, you should:
-- Have a GitHub account
 - Be able to open a terminal with a Git-compatible prompt
 - Be able to run vscode to edit and create code
